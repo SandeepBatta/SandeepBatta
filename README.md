@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SandeepBatta
+- 👀 I’m interested in Data Engineering and Data Science
+- 🌱 I’m currently learning NoSQL
+- 💞️ I’m looking to collaborate on kaggle competition
+- 📫 How to reach me: GMail - battasndp@gmail.com
